@@ -1,0 +1,1 @@
+cmd_/home/alumno/taller/taller-drivers/modules/ej1.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-23-generic-pae/scripts/module-common.lds --build-id  -o /home/alumno/taller/taller-drivers/modules/ej1.ko /home/alumno/taller/taller-drivers/modules/ej1.o /home/alumno/taller/taller-drivers/modules/ej1.mod.o
